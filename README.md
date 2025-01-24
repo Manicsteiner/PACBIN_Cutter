@@ -1,4 +1,7 @@
 # PACBIN_Cutter
+## END OF SUPPORT
+该功能由[PS2-Visual-Novel-Tool](https://github.com/punk7890/PS2-Visual-Novel-Tool)完美支持，本仓库不再更新。
+## 原说明
 尝试通过暴力查找特定文件头来裁剪一些游戏的PAC.BIN，提取其中资源。  
 查看图片请使用[GARbro-Unofficial-Release](https://github.com/Manicsteiner/GARbro/releases/tag/GARbro-Mod-1.0.1.5B1)（该功能暂未合并进入主线）。
 
